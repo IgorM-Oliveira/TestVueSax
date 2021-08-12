@@ -13,8 +13,9 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
 
-    "core-js": "^3.16.1",
-    "nuxt": "^2.15.7",
+
+    "core-js": "^3.14.0",
+    "nuxt": "^2.15.8",
 
     "vuesax": "^4.0.1-alpha.25"
   },
@@ -22,7 +23,7 @@
     "@nuxtjs/eslint-config": "^6.0.1",
     "@nuxtjs/eslint-module": "^3.0.2",
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.28.0",
+    "eslint": "^7.32.0",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-prettier": "^3.4.0",
